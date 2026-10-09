@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment files containing secrets
+.env
+
+# Streamlit local settings
+.streamlit/
